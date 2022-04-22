@@ -1,0 +1,20 @@
+[
+    {
+        "userId": 1,
+        "username": "Temur",
+        "password": "15e2b0d3c33891ebb0f1ef609ec419420c20e320ce94c65fbc8c3312448eb225",
+        "profileImg": "https://super-imtihon.herokuapp.com/16505949905641649755183617Image_from_w-dog.ru(8).jpg"
+    },
+    {
+        "userId": 2,
+        "username": "benazir",
+        "password": "15e2b0d3c33891ebb0f1ef609ec419420c20e320ce94c65fbc8c3312448eb225",
+        "profileImg": "https://super-imtihon.herokuapp.com/1650595183580gitHub.jpg"
+    },
+    {
+        "userId": 3,
+        "username": "Olimbek",
+        "password": "15e2b0d3c33891ebb0f1ef609ec419420c20e320ce94c65fbc8c3312448eb225",
+        "profileImg": "https://super-imtihon.herokuapp.com/1650598802940Screenshotfrom2022-02-2222-58-55.png"
+    }
+]
